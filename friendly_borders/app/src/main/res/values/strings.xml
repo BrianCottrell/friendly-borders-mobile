@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Friendly Borders</string>
+    <string name="action_settings">Need Help? Contact a Support Organization</string>
+    <string name="action_video">Start Video Call</string>
+    <string name="action_audio">Start Audio Call</string>
+    <string name="action_text">Open Text Chat</string>
+</resources>
