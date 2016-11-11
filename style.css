@@ -2,9 +2,13 @@
   display: none;
 }
 body {
-/*  background-image: url(http://i.imgur.com/ykwFrnY.jpg);*/
   font-size: 18px;
   font-family: Arial, sans-serif;
+}
+button {
+  height: 20px;
+  width: 190px;
+  overflow: hidden;
 }
 .color_1 {
   display: inline;
@@ -32,7 +36,10 @@ body {
 .content {
   width: 100%;
   text-align: center;
-/*  opacity: 0.8;*/
+}
+.flight {
+  position: absolute;
+  display: block;
 }
 .footer {
   position: relative;
@@ -46,6 +53,8 @@ body {
 }
 iframe {
   margin-top: -300px;
+  border-left: 13px solid #f1f1f1;
+  border-right: 13px solid #f1f1f1;
 }
 #left {
   position: absolute;
